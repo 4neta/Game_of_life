@@ -58,6 +58,6 @@ Iteration number 100
       @                          @ @
      @@@                        @   @
 ```
-You can restart the program by clicking `y`+`Enter` and watch the same table or 'evacuate'. :)
+You can restart the program by clicking `y`+`Enter` and watch the same iterations or 'evacuate'. :)
 ___________________________
 There is a lot to improve. I could add an option to choose dimensions and iterations (eg. until you get a static model), but now I deal with something else. :)
