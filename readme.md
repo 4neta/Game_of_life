@@ -33,7 +33,7 @@ Next operations are carried out in accordace with the Conway's rules:
 - if **alive** (`@`) cell has 2-3 neighbours, it stay **alive**; otherwise it **dies**,
 - if **dead** (` `) cell has 3 neighbours, it comes **alive**; else it stay **dead**.
 
-Program calculate the next table, clear the old and displays the new one `100` in 100 iterations.
+Program calculate the next table, clear the old and displays the new one in 100 iterations.
 The final table may look like this:
 ```
 Iteration number 100
